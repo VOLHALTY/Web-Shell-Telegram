@@ -18,6 +18,8 @@
   <li>This web shell is a trial version and is still available for testing by users</li>
 </ul>
 
+
+
 <h2>- Installation from GitHub</h2>
 
 ```
@@ -25,4 +27,12 @@ git clone https://github.com/VOLHALTY/Web-Shell-Telegram.git
 cd Web-Shell-Telegram
 ```
 
+<h2>- Precautions for working loose</h2>
+<ul>
+  <li>Do not change the name of the files in any way! </li>
+  <li>Be sure to upload both files on the server! </li>
+</ul>
+<p>Example of sending a message to the bot : </p>
+
+<img src="[Screenshot 2024-11-19 050703.png](https://github.com/VOLHALTY/Web-Shell-Telegram/blob/main/Screenshot%202024-11-19%20050703.png)">](https://github.com/VOLHALTY/Web-Shell-Telegram/blob/main/Screenshot%202024-11-19%20050703.png)
 
